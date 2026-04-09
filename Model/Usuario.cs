@@ -1,7 +1,7 @@
 namespace LojadeGames.Models;
 
 
-public class Usuário
+public class Usuario
 {
 
     public string gmail {get;set;}="";
